@@ -1,0 +1,12 @@
+{ 
+  	"manifest_version": 2, 
+  	"name": "百度贴吧高亮",
+  	"version": "0.1",
+  	"description": "百度贴吧高亮插件",
+  	"permissions": ["http://*/","bookmarks","tabs","history","storage"],
+  	"content_scripts": [
+	{
+		"matches": ["http://tieba.baidu.com/p/*"],
+		"js": ["main.js"]
+	}]
+}
