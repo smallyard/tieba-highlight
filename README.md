@@ -3,7 +3,7 @@ chrome plugin of tieba highlight.
 
 贴吧高亮工具--谷歌chrome插件。
 
-![tieba-highlight](http://images.cnblogs.com/cnblogs_com/smallyard/756917/o_tieba-highlight.jpg)
+![tieba-highlight](http://images.cnblogs.com/cnblogs_com/smallyard/756921/o_tieba-highlight.jpg) 
 
 ## 安装
 
