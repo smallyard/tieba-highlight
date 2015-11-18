@@ -9,7 +9,7 @@ chrome plugin of tieba highlight.
 
 ## 安装
 
-1.下载`bin`目录下的`tieba-highlight.crx`
+1.下载https://github.com/smallyard/tieba-highlight/archive/master.zip，解压后拿到`bin`目录下的`tieba-highlight.crx`
 
 2.打开chrome浏览器，在地址栏输入**chrome://extensions/**，回车。
 
