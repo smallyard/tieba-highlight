@@ -1,7 +1,7 @@
 var head = document.getElementsByTagName('head').item(0);
 
 var mainScript = document.createElement("script");
-mainScript.src = "https://rawgit.com/smallyard/tieba-highlight/master/src/tieba-highlight.js";
+mainScript.src = "https://cdn.jsdelivr.net/gh/smallyard/tieba-highlight@master/src/tieba-highlight.js";
 head.appendChild(mainScript);
 
 var css = document.createElement("link");
